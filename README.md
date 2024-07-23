@@ -10,4 +10,17 @@ In this task, I will write a Python script to brute force the decryption key of 
 Brute forcing is the act of repeatedly trying different combinations to break the password encryption (based on either randomly generated passwords, or from a list of passwords to try). A small subset of passwords from Rockyou - a widely know password wordlist that contains thousands of common passwords in one wordlist has been provided for this task.
 Ransomware will often encrypt all files on a device, and sometimes give the decryption key after the ransom has been paid (but this is not always the case!). In this task, I will break the encryption without paying the ransom.
 
+# How to use this script
 
+1. **Prepare Your Files**
+  - Create or download the "rockyou.txt" file containing a list of possible passwords.
+  - Have your encrypted ZIP file named 'enc.zip'.
+
+2. **Save and run the script**
+  - Save this script as 'crack_zip.py'.
+  - Run it using Python from your command-line interface.
+
+3. **Check the output**
+  - The script will try each password and let you know if it finds the correct one.
+
+Feel free to use or modify this script for your needs, and always ensure you have the right to access and crack the ZIP files you work with.   
