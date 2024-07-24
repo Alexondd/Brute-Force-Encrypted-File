@@ -17,7 +17,7 @@ Ransomware will often encrypt all files on a device, and sometimes give the decr
   - Have your encrypted ZIP file named 'enc.zip'.
 
 2. **Save and run the script**
-  - Save this script as 'crack_zip.py'.
+  - Save this script as 'bruteforce.py'.
   - Run it using Python from your command-line interface.
 
 3. **Check the output**
